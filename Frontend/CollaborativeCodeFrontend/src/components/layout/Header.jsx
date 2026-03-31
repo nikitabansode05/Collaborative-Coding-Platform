@@ -17,7 +17,10 @@ function Header() {
                 <Link to="/create" className="nav-link">Create Team</Link>
               </li>
               <li className="nav-item">
-                <Link to="/show" className="nav-link">Show Teams</Link>
+                <Link to="/show" className="nav-link">Show Users</Link>
+              </li>
+              <li className="nav-item">
+                <Link to="/count" className='nav-link'>Count</Link>
               </li>
             </ul>
           </div>
